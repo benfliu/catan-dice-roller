@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7de4c4a1-7de0-4f4f-8460-afb1e38591bd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="22pZmGFBMZOc7Xubq4wA5W31MIJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="catanDiceRoller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="catanDiceRollerOfficial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/catanDiceRoller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.catanDiceRoller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de4c4a1-7de0-4f4f-8460-afb1e38591bd" name="Default Changelist" comment="" />
+      <created>1640536646050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640536646050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="145" key="SettingsEditor" timestamp="1640536757262">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="265" y="145" key="SettingsEditor/0.32.1512.950@0.32.1512.950" timestamp="1640536757262" />
+    <state x="433" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1640536651706">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="433" y="338" key="com.intellij.ide.util.TipDialog/0.32.1512.950@0.32.1512.950" timestamp="1640536651706" />
+    <state x="342" y="97" width="827" height="825" key="find.popup" timestamp="1640536782643">
+      <screen x="0" y="32" width="1512" height="950" />
+    </state>
+    <state x="342" y="97" width="827" height="825" key="find.popup/0.32.1512.950@0.32.1512.950" timestamp="1640536782643" />
+  </component>
+</project>
